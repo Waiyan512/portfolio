@@ -5,6 +5,10 @@ title: "Soe Wai Yan"
 
 # Soe Wai Yan
 
+<p align="center">
+  <img src="/IMG_0534.jpeg" width="200" style="border-radius: 50%;">
+</p>
+
 📧 [waiyan@mit.edu](mailto:waiyan@mit.edu)  
 📱 669-243-7516  
 🔗 [LinkedIn](https://www.linkedin.com/in/soe-wai-yan-96ab74285)
