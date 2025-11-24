@@ -3,15 +3,25 @@ layout: default
 title: "Soe Wai Yan"
 ---
 
-# Soe Wai Yan
+<div style="display: flex; align-items: center; gap: 40px; margin-top: 20px;">
 
-<p align="center">
-  <img src="IMG_0534.jpeg" width="250" style="border-radius: 10px;">
-</p>
+  <!-- LEFT SIDE: Profile Photo -->
+  <div>
+    <img src="IMG_0534.jpeg" width="250" style="border-radius: 10px;">
+  </div>
 
-📧 [waiyan@mit.edu](mailto:waiyan@mit.edu)  
-📱 669-243-7516  
-🔗 [LinkedIn](https://www.linkedin.com/in/soe-wai-yan-96ab74285)
+  <!-- RIGHT SIDE: Name + Contact -->
+  <div>
+
+  <h1 style="margin-bottom: 10px;">Soe Wai Yan</h1>
+
+  📧 <a href="mailto:waiyan@mit.edu">waiyan@mit.edu</a><br>
+  📱 669-243-7516 <br>
+  🔗 <a href="https://www.linkedin.com/in/soe-wai-yan-96ab74285">LinkedIn</a>
+
+  </div>
+
+</div>
 
 ---
 
