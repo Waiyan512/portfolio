@@ -6,7 +6,7 @@ title: "Soe Wai Yan"
 # Soe Wai Yan
 
 <p align="center">
-  <img src="/IMG_0534.jpeg" width="200" style="border-radius: 50%;">
+  <img src="/portfolio/IMG_0534.jpeg" width="200" style="border-radius: 50%;">
 </p>
 
 📧 [waiyan@mit.edu](mailto:waiyan@mit.edu)  
