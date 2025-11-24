@@ -3,102 +3,175 @@ layout: default
 title: "Soe Wai Yan"
 ---
 
-<div style="display: flex; align-items: center; gap: 40px; margin-top: 20px;">
-
-  <!-- LEFT SIDE: Profile Photo -->
-  <div>
-    <img src="IMG_0534.jpeg" width="250" style="border-radius: 10px;">
+<div class="hero">
+  <div class="hero-left">
+    <img src="IMG_0534.jpeg" alt="Photo of Soe Wai Yan">
   </div>
 
-  <!-- RIGHT SIDE: Name + Contact -->
-  <div>
+  <div class="hero-right">
+    <h1>Soe Wai Yan</h1>
+    <div class="subtitle">
+      EECS @ MIT (’28) · Robotics, Embedded Systems, and IoT
+    </div>
 
-  <h1 style="margin-bottom: 10px;">Soe Wai Yan</h1>
+    <div class="chips">
+      <span class="chip">Modular Robotics</span>
+      <span class="chip">Embedded C / Arduino</span>
+      <span class="chip">Signal Processing</span>
+      <span class="chip">Computer Vision</span>
+    </div>
 
-  📧 <a href="mailto:waiyan@mit.edu">waiyan@mit.edu</a><br>
-  📱 669-243-7516 <br>
-  🔗 <a href="https://www.linkedin.com/in/soe-wai-yan-96ab74285">LinkedIn</a>
+    <div class="contact-line">
+      📧 <a href="mailto:waiyan@mit.edu">waiyan@mit.edu</a>
+    </div>
+    <div class="contact-line">
+      📱 669-243-7516
+    </div>
+    <div class="contact-line">
+      🔗 <a href="https://www.linkedin.com/in/soe-wai-yan-96ab74285" target="_blank">LinkedIn</a> ·
+      💻 <a href="https://github.com/Waiyan512" target="_blank">GitHub</a>
+    </div>
+  </div>
+</div>
 
+---
+
+## About
+
+I’m an Electrical Engineering and Computer Science student at MIT interested in building systems that connect **hardware and software**: modular reconfigurable robots, IoT devices, and sensing systems.
+
+Before MIT, I helped revive the Math Club at Georgia State University’s Perimeter College, led an award-winning school bus tracking project, and worked on an autonomous soil sensor system that was accepted for presentation at NCUR 2025.
+
+Right now, I’m especially excited about **robot morphology**, **embedded control**, and **real-world applications of perception and planning**.
+
+---
+
+## Featured Projects
+
+<div class="projects-grid">
+
+  <div class="project-card">
+    <div class="project-title">Reconfigurable Modular Robot – MIT CSAIL</div>
+    <div class="project-meta">Undergraduate Research · Sept 2025 – Present</div>
+    <ul>
+      <li>Designing and 3D-printing modular robot joints that integrate motors, encoders, and ESP32-based controllers.</li>
+      <li>Prototyping hardware to support morphology–control co-optimization for different robot configurations.</li>
+      <li>Building simple tools to visualize configurations and test control mappings on real hardware.</li>
+    </ul>
+  </div>
+
+  <div class="project-card">
+    <div class="project-title">BusMate – IoT School Bus Tracking</div>
+    <div class="project-meta">Project Lead · 1st Place, 2024 Perimeter College Innovation Challenge</div>
+    <ul>
+      <li>Built a low-cost GPS-based prototype to let parents track school buses and receive arrival notifications.</li>
+      <li>Designed the UI in Figma and conducted interviews with parents and school staff to refine requirements.</li>
+      <li>Presented the prototype in a live pitch competition and led a small team through multiple iterations.</li>
+    </ul>
+  </div>
+
+  <div class="project-card">
+    <div class="project-title">Autonomous Soil Analysis System</div>
+    <div class="project-meta">CORE Research Program · June 2024 – May 2025</div>
+    <ul>
+      <li>Used an Adafruit AS7341 multispectral sensor with Arduino to detect soil nutrient characteristics.</li>
+      <li>Calibrated the sensor, designed the electronics, and built the communication interface for field data collection.</li>
+      <li>Co-authored a research paper and prepared a poster for NCUR 2025 (Pittsburgh, PA).</li>
+    </ul>
+  </div>
+
+  <div class="project-card">
+    <div class="project-title">Self-Driving Car Prototype – ARCTIC Summer Camp</div>
+    <div class="project-meta">Participant · May 2024</div>
+    <ul>
+      <li>Integrated NVIDIA Jetson, Arduino, and sensors to build a small-scale self-driving car.</li>
+      <li>Implemented computer vision and basic machine learning algorithms for lane following and obstacle avoidance.</li>
+    </ul>
   </div>
 
 </div>
 
 ---
 
-## Education
-
-### Massachusetts Institute of Technology (MIT)
-**Bachelor of Science in Electrical Engineering and Computer Science**  
-**Expected Graduation:** May 2028  
-**GPA:** 5.0 / 5.0  
-
-**Relevant Coursework:** Intro to Algorithms, Linear Algebra, Signal Processing, Electric Circuits
-
----
-
-## Skills
-
-**Programming Languages:** Java, Python, C  
-
-**Frameworks & Tools:** Git, MATLAB  
-
-**Design Software:** AutoCAD, Fusion360  
-
-**Hardware & Microelectronics:** Circuit Design, Electronic Prototyping, Arduino, Jetson Nano, ESP32  
-
----
-
 ## Experience
 
-### MIT Computer Science and Artificial Intelligence Laboratory (CSAIL)  
-**Undergraduate Researcher** · Sept 2025 – Present  
+<div class="section">
 
-- Design and prototype modular robot components, integrating sensors, actuators, and microcontrollers through 3D printing, electronics simulation, and embedded control.
-- Fabricate and test reconfigurable hardware prototypes for robot morphology optimizations.
-- Develop a lightweight UI to visualize design configurations and control mappings.
+  <div class="item-block">
+    <div class="item-title">MIT CSAIL – Undergraduate Researcher</div>
+    <div class="item-meta">Sept 2025 – Present · Cambridge, MA</div>
+    <ul>
+      <li>Design and prototype modular robot components via 3D printing, electronics integration, and embedded control.</li>
+      <li>Test reconfigurable hardware prototypes to study how different morphologies affect control performance.</li>
+    </ul>
+  </div>
 
----
+  <div class="item-block">
+    <div class="item-title">CORE Research Program – Georgia State University</div>
+    <div class="item-meta">Undergraduate Researcher · June 2024 – May 2025</div>
+    <ul>
+      <li>Developed an Arduino-based soil sensing system using the AS7341 multispectral sensor.</li>
+      <li>Processed spectral data and supported experimental design for soil analysis.</li>
+    </ul>
+  </div>
 
-### 2024 Core Research Program, Georgia State University  
-**Undergraduate Researcher** · June 2024 – May 2025  
+  <div class="item-block">
+    <div class="item-title">Lethwei Mania Media Company</div>
+    <div class="item-meta">Co-Founder &amp; Video Editor · March 2022 – December 2022</div>
+    <ul>
+      <li>Managed social media, edited and uploaded 100+ combat sports videos highlighting Burmese Lethwei culture.</li>
+      <li>Grew a YouTube channel to 20K+ subscribers in nine months.</li>
+    </ul>
+  </div>
 
-- Programmed Arduino IDE to calibrate the Adafruit AS7341 multispectral sensor for soil nutrient detection.
-- Designed and assembled the sensor hardware and communication interface for an autonomous soil analysis system.
-- Co-authored a research paper and prepared to present at NCUR 2025 (Pittsburgh, PA).
-
----
-
-### School Bus Tracking App Project – BUSMATE  
-**Project Lead / Developer** · Aug 2024 – May 2025  
-
-- Developed an affordable IoT-based school bus tracking prototype using a low-cost GPS sensor.
-- Led user research and designed the prototype interface in Figma.
-- Won **1st Place** in the 2024 Perimeter College Innovation Challenge Competition.
-
----
-
-### Self-Driving Car Project – ARCTIC Summer Camp  
-**Participant** · May 2024  
-
-- Designed and built a self-driving car prototype using Nvidia Jetson, Arduino, and C.
-- Integrated sensors for obstacle detection and path navigation.
-- Implemented machine learning and computer-vision algorithms for autonomous steering and lane following.
-
----
-
-### Lethwei Mania Media Company  
-**Co-Founder & Video Editor** · March 2022 – December 2022  
-
-- Managed social media platforms and edited/uploaded 100+ boxing videos.  
-- Grew a YouTube channel to **20K+ subscribers in 9 months**, promoting Burmese Lethwei culture.
+</div>
 
 ---
 
 ## Leadership
 
-### Math Club – Georgia State University  
-**Co-President** · Sept 2024 – May 2025  
+<div class="section">
 
-- Led and represented the club, organizing events such as AMATYC Math Competition prep, Walking Robot Lab, Curiosity Lab field trip, Origami Lab, and CASA GSU guest speaker sessions.
-- Created event ideas, managed club operations, budgeting, and collaboration with faculty and members.
-- Revived an inactive club and increased membership to around 100 active members.
+  <div class="item-block">
+    <div class="item-title">Math Club – Georgia State University (Perimeter College)</div>
+    <div class="item-meta">Co-President · Sept 2024 – May 2025</div>
+    <ul>
+      <li>Revived an inactive club and grew membership to ~100 active students.</li>
+      <li>Organized events including AMATYC competition prep, a walking robot lab, a Curiosity Lab field trip, and guest speaker sessions.</li>
+    </ul>
+  </div>
+
+</div>
+
+---
+
+## Skills
+
+<div class="section pill-list">
+  <span>Java</span>
+  <span>Python</span>
+  <span>C</span>
+  <span>Arduino / ESP32</span>
+  <span>Jetson Nano</span>
+  <span>MATLAB</span>
+  <span>Git</span>
+  <span>AutoCAD</span>
+  <span>Fusion 360</span>
+  <span>Circuit design</span>
+  <span>Embedded systems</span>
+  <span>Signal processing</span>
+</div>
+
+---
+
+## Contact
+
+If you’d like to talk about internships, research, or robotics projects, feel free to reach out:
+
+- 📧 <a href="mailto:waiyan@mit.edu">waiyan@mit.edu</a>  
+- 🔗 <a href="https://www.linkedin.com/in/soe-wai-yan-96ab74285" target="_blank">LinkedIn</a>  
+- 💻 <a href="https://github.com/Waiyan512" target="_blank">GitHub</a>  
+
+<div class="footer">
+  Last updated {{ site.time | date: "%b %Y" }}.
+</div>
