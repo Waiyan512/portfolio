@@ -11,7 +11,7 @@ title: "Soe Wai Yan"
   <div class="hero-right">
     <h1>Soe Wai Yan</h1>
     <div class="subtitle">
-      EECS @ MIT (’28) · Robotics, Embedded Systems, and IoT
+      EECS @ MIT (’28) · Robotics,and Embedded Systems
     </div>
 
     <div class="chips">
