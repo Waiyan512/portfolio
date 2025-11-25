@@ -38,11 +38,12 @@ title: "Soe Wai Yan"
 
 ## About
 
-I’m an Electrical Engineering and Computer Science student at MIT interested in building systems that connect **hardware and software**: modular reconfigurable robots, IoT devices, and sensing systems.
+## About
 
-Before MIT, I helped revive the Math Club at Georgia State University’s Perimeter College, led an award-winning school bus tracking project, and worked on an autonomous soil sensor system that was accepted for presentation at NCUR 2025.
+I’m an **Electrical Engineering and Computer Science (EECS) student at MIT** with a focus on **robotics**, particularly where **electronics**, **embedded systems**, and **software intelligence** meet. I’m passionate about building **modular reconfigurable robots**, **real-time control systems**, and **sensor-driven autonomous machines**.
 
-Right now, I’m especially excited about **robot morphology**, **embedded control**, and **real-world applications of perception and planning**.
+My technical interests include **robot morphology**, **embedded control**, and **planning for adaptive robotic behavior**. I enjoy projects where **hardware**, **firmware**, and **algorithms** seamlessly integrate to create intelligent, responsive robotic systems.
+
 
 ---
 
