@@ -38,8 +38,6 @@ title: "Soe Wai Yan"
 
 ## About
 
-## About
-
 I’m an **Electrical Engineering and Computer Science (EECS) student at MIT** with a focus on **robotics**, particularly where **electronics**, **embedded systems**, and **software intelligence** meet. I’m passionate about building **modular reconfigurable robots**, **real-time control systems**, and **sensor-driven autonomous machines**.
 
 My technical interests include **robot morphology**, **embedded control**, and **planning for adaptive robotic behavior**. I enjoy projects where **hardware**, **firmware**, and **algorithms** seamlessly integrate to create intelligent, responsive robotic systems.
