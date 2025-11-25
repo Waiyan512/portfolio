@@ -16,9 +16,9 @@ title: "Soe Wai Yan"
 
     <div class="chips">
       <span class="chip">Modular Robotics</span>
-      <span class="chip">Embedded C / Arduino</span>
+      <span class="chip">Embedded C / ESP 32</span>
       <span class="chip">Signal Processing</span>
-      <span class="chip">Computer Vision</span>
+  
     </div>
 
     <div class="contact-line">
