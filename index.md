@@ -174,14 +174,13 @@ My technical interests include **robot morphology**, **embedded control**, and *
 
 ---
 
-## Contact
+<h2>Contact</h2>
 
-If you’d like to talk about internships, research, or robotics projects, feel free to reach out:
+<p>If you’d like to talk about internships, research, or robotics projects, feel free to reach out:</p>
 
-- 📧 <a href="mailto:waiyan@mit.edu">waiyan@mit.edu</a>  
-- 🔗 <a href="https://www.linkedin.com/in/soe-wai-yan-96ab74285" target="_blank">LinkedIn</a>  
-- 💻 <a href="https://github.com/Waiyan512" target="_blank">GitHub</a>  
+<p style="text-align: center; font-size: 1.05rem; line-height: 1.7;">
+  📧 <a href="mailto:waiyan@mit.edu">waiyan@mit.edu</a><br>
+  🔗 <a href="https://www.linkedin.com/in/soe-wai-yan-96ab74285" target="_blank">LinkedIn</a><br>
+  💻 <a href="https://github.com/Waiyan512" target="_blank">GitHub</a>
+</p>
 
-<div class="footer">
-  Last updated {{ site.time | date: "%b %Y" }}.
-</div>
