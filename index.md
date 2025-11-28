@@ -100,10 +100,12 @@ My technical interests include **robot morphology**, **embedded control**, and *
     <li>Implemented computer vision and basic machine learning algorithms for lane following and obstacle avoidance.</li>
     <li>Collaborated with students to design and test embedded control logic for autonomous navigation.</li>
   </ul>
+  </div>
 </div>
 
 
 ---
+
 
 ## Experience
 
