@@ -77,14 +77,21 @@ My technical interests include **robot morphology**, **embedded control**, and *
 
 
   <div class="project-card">
-    <div class="project-title">Autonomous Soil Analysis System</div>
-    <div class="project-meta">CORE Research Program · June 2024 – May 2025</div>
-    <ul>
-      <li>Used an Adafruit AS7341 multispectral sensor with Arduino to detect soil nutrient characteristics.</li>
-      <li>Calibrated the sensor, designed the electronics, and built the communication interface for field data collection.</li>
-      <li>Co-authored a research paper and prepared a poster for NCUR 2025 (Pittsburgh, PA).</li>
-    </ul>
+  <div class="project-title">
+    <strong>
+      <a href="soil_analysis_ncur_2025.pdf" target="_blank">
+        Autonomous Soil Analysis System
+      </a>
+    </strong>
   </div>
+  <div class="project-meta">CORE Research Program · June 2024 – May 2025</div>
+  <ul>
+    <li>Used an Adafruit AS7341 multispectral sensor with Arduino to detect soil nutrient characteristics.</li>
+    <li>Calibrated the sensor, designed the electronics, and built the communication interface for field data collection.</li>
+    <li>Co-authored a research paper and prepared a poster for NCUR 2025 (Pittsburgh, PA).</li>
+  </ul>
+</div>
+
 
   <div class="project-card">
   <div class="project-title">
