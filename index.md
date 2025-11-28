@@ -60,14 +60,21 @@ My technical interests include **robot morphology**, **embedded control**, and *
   </div>
 
   <div class="project-card">
-    <div class="project-title">BusMate – IoT School Bus Tracking</div>
-    <div class="project-meta">Project Lead · 1st Place, 2024 Perimeter College Innovation Challenge</div>
-    <ul>
-      <li>Built a low-cost GPS-based prototype to let parents track school buses and receive arrival notifications.</li>
-      <li>Designed the UI in Figma and conducted interviews with parents and school staff to refine requirements.</li>
-      <li>Presented the prototype in a live pitch competition and led a small team through multiple iterations.</li>
-    </ul>
+  <div class="project-title">
+    <strong>
+      <a href="https://pitch.com/v/busmate-58bd7h/4d850d81-d283-405a-b91c-3f2b138b90d6" target="_blank">
+        BusMate – IoT School Bus Tracking
+      </a>
+    </strong>
   </div>
+  <div class="project-meta">Project Lead · 1st Place, 2024 Perimeter College Innovation Challenge</div>
+  <ul>
+    <li>Built a low-cost GPS-based prototype to let parents track school buses and receive arrival notifications.</li>
+    <li>Designed the UI in Figma and conducted interviews with parents and school staff to refine requirements.</li>
+    <li>Presented the prototype in a live pitch competition and led a small team through multiple iterations.</li>
+  </ul>
+</div>
+
 
   <div class="project-card">
     <div class="project-title">Autonomous Soil Analysis System</div>
