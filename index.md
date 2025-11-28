@@ -153,6 +153,7 @@ My technical interests include **robot morphology**, **embedded control**, and *
     <li>Grew a YouTube channel to 20K+ subscribers in nine months.</li>
   </ul>
 </div>
+</div>
 
 
 
