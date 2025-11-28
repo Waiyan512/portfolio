@@ -50,7 +50,13 @@ My technical interests include **robot morphology**, **embedded control**, and *
 <div class="projects-grid">
 
   <div class="project-card">
-    <div class="project-title">Reconfigurable Modular Robot – MIT CSAIL (Algorithmic Design Group)</div>
+    <div class="project-title">
+      <strong>
+      <a href="modular.pdf" target="_blank">
+        Reconfigurable Modular Robot – MIT CSAIL (Algorithmic Design Group)
+      </a>
+    </strong>
+    </div>
     <div class="project-meta">Undergraduate Research · Sept 2025 – Present</div>
     <ul>
       <li>Designing and 3D-printing modular robot joints that integrate motors, encoders, and ESP32-based controllers.</li>
