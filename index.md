@@ -115,15 +115,21 @@ My technical interests include **robot morphology**, **embedded control**, and *
   </div>
 
   <div class="item-block">
-  <div class="item-title"><strong>Math Club – Georgia State University (Perimeter College)</strong></div>
+  <div class="item-title">
+    <strong>
+      <a href="https://storymaps.arcgis.com/stories/2cf810f5ab8446188b9f6c4638d0dc26" target="_blank">
+        Math Club – Georgia State University (Perimeter College)
+      </a>
+    </strong>
+  </div>
   <div class="item-meta">Co-President · Sept 2024 – May 2025</div>
   <ul>
     <li>Revived an inactive club and grew membership to ~100 active students.</li>
-    <li>Organized major events including AMATYC competition prep, a walking robot lab, a Curiosity Lab field trip, and guest speaker sessions.</li>
-    <li>Created an <a href="https://storymaps.arcgis.com/stories/2cf810f5ab8446188b9f6c4638d0dc26" target="_blank">ArcGIS StoryMap</a> documenting the club’s activities and impact.</li>
-    <li>Managed budgeting, logistics, and collaboration with faculty to sustain long-term club growth.</li>
+    <li>Organized events including AMATYC competition prep, a walking robot lab, a Curiosity Lab field trip, and guest speaker sessions.</li>
+    <li>Managed budgeting, logistics, and faculty coordination for all club operations.</li>
   </ul>
 </div>
+
 
 
   <div class="item-block">
