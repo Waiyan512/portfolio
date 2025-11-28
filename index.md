@@ -97,25 +97,37 @@ My technical interests include **robot morphology**, **embedded control**, and *
 <div class="section">
 
   <div class="item-block">
-    <div class="item-title">MIT CSAIL – Undergraduate Researcher</div>
+    <div class="item-title"><strong>MIT CSAIL – Undergraduate Researcher</strong></div>
     <div class="item-meta">Sept 2025 – Present · Cambridge, MA</div>
     <ul>
-      <li>Design and prototype modular robot components via 3D printing, electronics integration, and embedded control.</li>
-      <li>Test reconfigurable hardware prototypes to study how different morphologies affect control performance.</li>
+      <li>Design and prototype modular robot components using 3D printing, electronics integration, and embedded control.</li>
+      <li>Build and test reconfigurable hardware modules to study how different morphologies affect control performance.</li>
     </ul>
   </div>
 
   <div class="item-block">
-    <div class="item-title">CORE Research Program – Georgia State University</div>
+    <div class="item-title"><strong>CORE Research Program – Georgia State University</strong></div>
     <div class="item-meta">Undergraduate Researcher · June 2024 – May 2025</div>
     <ul>
       <li>Developed an Arduino-based soil sensing system using the AS7341 multispectral sensor.</li>
-      <li>Processed spectral data and supported experimental design for soil analysis.</li>
+      <li>Calibrated spectral data and supported experimental design for soil nutrient analysis.</li>
     </ul>
   </div>
 
   <div class="item-block">
-    <div class="item-title">Lethwei Mania Media Company</div>
+  <div class="item-title"><strong>Math Club – Georgia State University (Perimeter College)</strong></div>
+  <div class="item-meta">Co-President · Sept 2024 – May 2025</div>
+  <ul>
+    <li>Revived an inactive club and grew membership to ~100 active students.</li>
+    <li>Organized major events including AMATYC competition prep, a walking robot lab, a Curiosity Lab field trip, and guest speaker sessions.</li>
+    <li>Created an <a href="https://storymaps.arcgis.com/stories/2cf810f5ab8446188b9f6c4638d0dc26" target="_blank">ArcGIS StoryMap</a> documenting the club’s activities and impact.</li>
+    <li>Managed budgeting, logistics, and collaboration with faculty to sustain long-term club growth.</li>
+  </ul>
+</div>
+
+
+  <div class="item-block">
+    <div class="item-title"><strong>Lethwei Mania Media Company</strong></div>
     <div class="item-meta">Co-Founder &amp; Video Editor · March 2022 – December 2022</div>
     <ul>
       <li>Managed social media, edited and uploaded 100+ combat sports videos highlighting Burmese Lethwei culture.</li>
@@ -125,29 +137,10 @@ My technical interests include **robot morphology**, **embedded control**, and *
 
 </div>
 
----
-
-## Leadership
-
-<div class="section">
-
-  <div class="item-block">
-    <div class="item-title">Math Club – Georgia State University (Perimeter College)</div>
-    <div class="item-meta">Co-President · Sept 2024 – May 2025</div>
-    <ul>
-      <li>Revived an inactive club and grew membership to ~100 active students.</li>
-      <li>Organized events including AMATYC competition prep, a walking robot lab, a Curiosity Lab field trip, and guest speaker sessions.</li>
-    </ul>
-  </div>
-
-</div>
-
----
 
 ## Skills
 
 <div class="section pill-list">
-  <span>Java</span>
   <span>Python</span>
   <span>C</span>
   <span>Arduino / ESP32</span>
@@ -157,7 +150,6 @@ My technical interests include **robot morphology**, **embedded control**, and *
   <span>AutoCAD</span>
   <span>Fusion 360</span>
   <span>Circuit design</span>
-  <span>Embedded systems</span>
   <span>Signal processing</span>
 </div>
 
