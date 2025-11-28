@@ -87,15 +87,21 @@ My technical interests include **robot morphology**, **embedded control**, and *
   </div>
 
   <div class="project-card">
-    <div class="project-title">Self-Driving Car Prototype – ARCTIC Summer Camp</div>
-    <div class="project-meta">Participant · May 2024</div>
-    <ul>
-      <li>Integrated NVIDIA Jetson, Arduino, and sensors to build a small-scale self-driving car.</li>
-      <li>Implemented computer vision and basic machine learning algorithms for lane following and obstacle avoidance.</li>
-    </ul>
+  <div class="project-title">
+    <strong>
+      <a href="https://github.com/lanixyz/Car-project" target="_blank">
+        Self-Driving Car Prototype – ARCTIC Summer Camp
+      </a>
+    </strong>
   </div>
-
+  <div class="project-meta">Participant · May 2024</div>
+  <ul>
+    <li>Integrated NVIDIA Jetson, Arduino, and sensors to build a small-scale self-driving car.</li>
+    <li>Implemented computer vision and basic machine learning algorithms for lane following and obstacle avoidance.</li>
+    <li>Collaborated with students to design and test embedded control logic for autonomous navigation.</li>
+  </ul>
 </div>
+
 
 ---
 
