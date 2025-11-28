@@ -52,7 +52,7 @@ My technical interests include **robot morphology**, **embedded control**, and *
   <div class="project-card">
     <div class="project-title">
       <strong>
-      <a href="modular.pdf" target="_blank">
+      <a href="modular.jpeg" target="_blank">
         Reconfigurable Modular Robot – MIT CSAIL (Algorithmic Design Group)
       </a>
     </strong>
