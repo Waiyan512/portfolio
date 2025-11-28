@@ -133,15 +133,20 @@ My technical interests include **robot morphology**, **embedded control**, and *
 
 
   <div class="item-block">
-    <div class="item-title"><strong>Lethwei Mania Media Company</strong></div>
-    <div class="item-meta">Co-Founder &amp; Video Editor · March 2022 – December 2022</div>
-    <ul>
-      <li>Managed social media, edited and uploaded 100+ combat sports videos highlighting Burmese Lethwei culture.</li>
-      <li>Grew a YouTube channel to 20K+ subscribers in nine months.</li>
-    </ul>
+  <div class="item-title">
+    <strong>
+      <a href="https://www.youtube.com/@LethweiMania" target="_blank">
+        Lethwei Mania Media Company
+      </a>
+    </strong>
   </div>
-
+  <div class="item-meta">Co-Founder &amp; Video Editor · March 2022 – December 2022</div>
+  <ul>
+    <li>Managed social media, edited and uploaded 100+ combat sports videos highlighting Burmese Lethwei culture.</li>
+    <li>Grew a YouTube channel to 20K+ subscribers in nine months.</li>
+  </ul>
 </div>
+
 
 
 ## Skills
